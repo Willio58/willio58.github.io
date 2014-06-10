@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Will Allstead</title>
+  <id>http://willio58.github.io</id>
+  <link href="http://willio58.github.io" />
+  <link href="http://willio58.github.io/atom.xml" rel="self" />
+  <updated>2014-06-09T17:16:13-07:00</updated>
+  <rights>Copyright 2014, Will Allstead</rights>
+  <author>
+    <name>Will Allstead</name>
+  </author>
+  
+    <entry>
+      <title>Dreamweaver certified!!</title>
+      <link href="http://willio58.github.io/2014/06/dream-weaver-certified.html" />
+      <summary type="html">&lt;p&gt;I had a magical experience getting &lt;a href=&quot;http://certiport.com/&quot; title=&quot;Certiport Certification&quot;&gt;dreamweaver certified&lt;/a&gt;.&lt;/p&gt;
+</summary>
+      <id>http://willio58.github.io/2014/06/dream-weaver-certified.html</id>
+      <updated>2014-06-09T16:57:51Z</updated>
+      <author>
+        <name>Will Allstead</name>
+      </author>
+    </entry>
+  
+</feed>

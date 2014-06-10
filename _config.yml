@@ -1,0 +1,15 @@
+name: "Will Allstead"
+description: "Developer"
+
+author: "Will Allstead"
+
+url: "http://willio58.github.io"
+baseurl: ""
+
+markdown: rdiscount
+permalink: :year/:month/:title.html
+pygments: true
+
+# Google Analytics
+ga_domain: willio58.github.io
+ga_tracking_id: UA-47727049-1
